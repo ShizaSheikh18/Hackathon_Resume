@@ -1,0 +1,265 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0PX;
+  }
+  body{
+    background-color: rgb(207, 207, 252);
+  }
+
+/* Main Div */
+.maindiv{
+    margin-left: 220px;
+    width: 900px;
+      height: 950px;
+      background-color: rgba(92, 92, 228, 0.3); /* Blue with transparency */
+      backdrop-filter: blur(10px); /* Blurs background content */
+      -webkit-backdrop-filter: blur(10px); /* For Safari */
+      border: 1px solid rgba(10, 8, 146, 0.5); /* Optional border for styling */
+      border-radius: 10px; /* Smooth corners for aesthetics */
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional shadow for depth */
+}
+
+/* Personal Heading */
+.pidiv{
+  color: white;
+  padding-top: 10px;
+  font-size: 30px;
+  text-align: center;
+  width: 898px;
+    height: 50px;
+    background-color: rgba(23, 23, 235, 0.4); /* Blue with transparency */
+    backdrop-filter: blur(10px); /* Blurs background content */
+    -webkit-backdrop-filter: blur(10px); /* For Safari */
+    border: 2px solid rgba(10, 8, 146, 0.5); /* Optional border for styling */
+    border-radius: 10px; /* Smooth corners for aesthetics */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional shadow for depth */
+}
+
+/* Detailed */
+.detail{
+  margin-top: 10px;
+  background-color: rgba(178, 178, 233, 0.3); /* Blue with transparency */
+  backdrop-filter: blur(10px); /* Blurs background content */
+  -webkit-backdrop-filter: blur(10px); /* For Safari */
+  
+}
+/* Profile picture */
+img{
+  margin-left: 25px;
+  width: 260px;
+}
+
+/*  ALL Paragraph setup */
+p{
+  font-size: 25px;
+  color: black;
+  font-style: bold;
+  padding:6px;
+  position: absolute;
+}
+.p0{
+  text-align: left;
+  margin-left: 400px;
+  margin-top: 35px;
+}
+.p1{
+  text-align: left;
+  margin-left: 400px;
+  margin-top: 75px;
+}
+.p3{
+  text-align: left;
+  margin-left: 400px;
+  margin-top: 115px;
+}
+.p2{
+  text-align: left;
+  margin-left: 400px;
+  margin-top: 155px;
+}
+.p4{
+  text-align: left;
+  margin-left: 400px;
+  margin-top: 195px;
+}
+
+/* EDUCATION HEADING */
+.Ediv{
+  color: white;
+  padding-top: 10px;
+  font-size: 30px;
+  text-align: center;
+  width: 898px;
+    height: 50px;
+    background-color: rgba(23, 23, 235, 0.4); /* Blue with transparency */
+    backdrop-filter: blur(10px); /* Blurs background content */
+    -webkit-backdrop-filter: blur(10px); /* For Safari */
+    border: 2px solid rgba(10, 8, 146, 0.5); /* Optional border for styling */
+    border-radius: 10px; /* Smooth corners for aesthetics */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional shadow for depth */
+    margin-top: 10px;
+}
+
+/* Education detail */
+.detailE{
+  margin-top: 10px;
+  background-color: rgba(178, 178, 233, 0.3); /* Blue with transparency */
+  backdrop-filter: blur(10px); /* Blurs background content */
+  -webkit-backdrop-filter: blur(10px); /* For Safari */
+}
+.p5{
+  position: absolute;
+  margin-left: 100px;
+  
+}
+.p6{
+  position: absolute;
+  margin-left: 400px;
+}
+ /* Skills Heading */
+.Sdiv{
+  color: white;
+  padding-top: 10px;
+  font-size: 30px;
+  text-align: center;
+  width: 898px;
+    height: 50px;
+    background-color: rgba(23, 23, 235, 0.4); /* Blue with transparency */
+    backdrop-filter: blur(10px); /* Blurs background content */
+    -webkit-backdrop-filter: blur(10px); /* For Safari */
+    border: 2px solid rgba(10, 8, 146, 0.5); /* Optional border for styling */
+    border-radius: 10px; /* Smooth corners for aesthetics */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional shadow for depth */
+    margin-top: 50px;
+}
+
+/* skill Details */
+.detailSkills{
+  margin-top: 10px;
+  background-color: rgba(178, 178, 233, 0.3); /* Blue with transparency */
+  backdrop-filter: blur(10px); /* Blurs background content */
+  -webkit-backdrop-filter: blur(10px); /* For Safari */
+}
+
+.para0{
+  margin-left: 70px;
+  font-size: 25px;
+  color: black;
+  font-style: bold;
+  padding:6px;
+}
+.para1{
+  margin-left: 170px;
+  font-size: 25px;
+  color: black;
+  font-style: bold;
+  padding:6px;
+}
+.para2{
+  margin-left: 250px;
+  font-size: 25px;
+  color: black;
+  font-style: bold;
+  padding:6px;
+}
+
+
+/* Experience heading */
+.Experience{
+  color: white;
+  padding-top: 10px;
+  font-size: 30px;
+  text-align: center;
+  width: 898px;
+    height: 50px;
+    background-color: rgba(23, 23, 235, 0.4); /* Blue with transparency */
+    backdrop-filter: blur(10px); /* Blurs background content */
+    -webkit-backdrop-filter: blur(10px); /* For Safari */
+    border: 2px solid rgba(10, 8, 146, 0.5); /* Optional border for styling */
+    border-radius: 10px; /* Smooth corners for aesthetics */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional shadow for depth */
+    margin-top: 10px;
+}
+
+/* Experience detail */
+.ExperienceDetail{
+  margin-top: 10px;
+  background-color: rgba(178, 178, 233, 0.3); /* Blue with transparency */
+  backdrop-filter: blur(10px); /* Blurs background content */
+  -webkit-backdrop-filter: blur(10px); /* For Safari */
+}
+
+/* Still Learning Heading */
+.Stdiv{
+  color: white;
+  padding-top: 10px;
+  font-size: 30px;
+  text-align: center;
+  width: 898px;
+    height: 50px;
+    background-color: rgba(23, 23, 235, 0.4); /* Blue with transparency */
+    backdrop-filter: blur(10px); /* Blurs background content */
+    -webkit-backdrop-filter: blur(10px); /* For Safari */
+    border: 2px solid rgba(10, 8, 146, 0.5); /* Optional border for styling */
+    border-radius: 10px; /* Smooth corners for aesthetics */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional shadow for depth */
+    margin-top: 60px;
+}
+
+/* Still Learning Deatil */
+.Stdetail{
+  margin-top: 10px;
+  background-color: rgba(178, 178, 233, 0.3); /* Blue with transparency */
+  backdrop-filter: blur(10px); /* Blurs background content */
+  -webkit-backdrop-filter: blur(10px); /* For Safari */
+}
+#stillsec{
+  display: block;
+}
+
+/* Hide Button */
+button{
+  font-family: 'Times New Roman', Times, serif;
+  display: inline-block;
+  padding: 15px;
+  font-size: 25px;
+  background-color: rgb(61, 61, 250);
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 80px ;
+  margin-left: 450px;
+  font-size: 30px;
+  position: absolute;
+}
+button:hover {
+  background-color: rgb(84, 84, 247);
+}
+button:active{
+  background-color: rgb(22, 22, 117);
+}
+
+/* Back Button */
+.button3{
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+    padding: 15px;
+    font-size: 25px;
+    background-color: rgb(61, 61, 250);
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 80px ;
+    margin-left: 300px;
+    font-size: 30px;
+    position: absolute;
+  }
+  .button3:hover {
+    background-color: rgb(84, 84, 247);
+  }
+  .button3:active{
+    background-color: rgb(22, 22, 117);
+}
+
